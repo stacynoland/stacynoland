@@ -2,11 +2,9 @@
 
 Visit my portfolio website at <a href="https://stacynoland.com" target="_blank">stacynoland.com</a>
 
-I am actively applying to open roles:
-<p style="color:blue">
-  Senior Software Engineer<br>
-  Data Engineer
-</p>
+I am actively applying to open roles:<br>
+$${\color{purple}Senior}$$ $${\color{purple}Software}$$ $${\color{purple}Engineer}$$ <br>
+$${\color{purple}Data}$$ $${\color{purple}Engineer}$$
 
 You can reach me through the contact on my webiste (see above).
 
