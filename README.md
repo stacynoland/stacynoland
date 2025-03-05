@@ -3,14 +3,15 @@
 Visit my portfolio website at [stacynoland.com](https://stacynoland.com)
 
 I am actively applying to open roles:
-- $${\color{purple}Senior}$$ $${\color{purple}Software}$$ $${\color{purple}Engineer}$$
+- $${\color{purple}Software}$$ $${\color{purple}Engineer}$$
+- $${\color{purple}Backend}$$ $${\color{purple}Engineer}$$
 - $${\color{purple}Data}$$ $${\color{purple}Engineer}$$
 
 You can reach me through the contact button on my webiste (see above).
 
 I'm currently working on...
-- Projects using Python/Django with PostgreSQL
-- Developing PySpark pipelines for analyzing big data
+- Python package for Django to ensure proper identity management of user information.
+- Timeclock and paycheck application written in Python using Django with PostgreSQL.
 
 <!--
 **stacynoland/stacynoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
