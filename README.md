@@ -3,9 +3,9 @@
 Visit my portfolio website at [stacynoland.com](https://stacynoland.com)
 
 I am actively applying to open roles:
-- $${\color{purple}Software}$$ $${\color{purple}Engineer}$$
-- $${\color{purple}Backend}$$ $${\color{purple}Engineer}$$
-- $${\color{purple}Data}$$ $${\color{purple}Engineer}$$
+- **Software Engineer**
+- **Backend Engineer**
+- **Data Engineer**
 
 You can reach me through the contact button on my webiste (see above).
 
