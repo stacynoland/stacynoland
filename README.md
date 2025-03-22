@@ -3,7 +3,7 @@
 Visit my portfolio website at [stacynoland.com](https://stacynoland.com)
 
 I am actively applying to open roles:
-- **Software Engineer**
+- **Senior Software Engineer**
 - **Backend Engineer**
 - **Data Engineer**
 
