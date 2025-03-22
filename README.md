@@ -1,17 +1,17 @@
-# Welcome! 👋 I'm Stacy and this is my GitHub account!
+# Welcome! 👋 I'm Stacy and this is my GitHub account 
 
-Visit my portfolio website at [stacynoland.com](https://stacynoland.com)
+Over 10 years in the IT industry with 8 years developing software and services, primarily using Python, C#/.NET, and SQL.
 
-I am actively applying to open roles:
+Actively applying to open roles (Remote Only):
 - **Senior Software Engineer**
 - **Backend Engineer**
 - **Data Engineer**
 
-You can reach me through the contact button on my webiste (see above).
+You can reach me through the contact button on my webiste: [stacynoland.com](https://stacynoland.com)
 
 I'm currently working on...
-- Python package for Django to ensure proper identity management of user information.
-- Timeclock and paycheck application written in Python using Django with PostgreSQL.
+- Django package to enforce proper identity and access management principles associated with users and permissions.
+- Python package ([python-taxes](https://github.com/stacynoland/python-taxes)) that provides US-based tax calculators for medicare, social security, and income.
 
 <!--
 **stacynoland/stacynoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
