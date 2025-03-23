@@ -10,8 +10,8 @@ Actively applying to open roles (Remote Only):
 You can reach me through the contact button on my webiste: [stacynoland.com](https://stacynoland.com)
 
 I'm currently working on...
-- Django package to enforce proper identity and access management principles associated with users and permissions.
-- Python package ([python-taxes](https://github.com/stacynoland/python-taxes)) that provides US-based tax calculators for medicare, social security, and income.
+- [django-identity](https://github.com/stacynoland/django-identity) - Enforce proper identity and access management principles associated with users and permissions.
+- [python-taxes](https://github.com/stacynoland/python-taxes) - Provides US-based calculators for medicare, social security, and income tax.
 
 <!--
 **stacynoland/stacynoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
