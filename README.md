@@ -11,7 +11,7 @@ You can reach me through the contact button on my webiste: [stacynoland.com](htt
 
 I'm currently working on...
 - [django-identity](https://github.com/stacynoland/django-identity) - Enforce proper identity and access management principles associated with users and permissions.
-- [python-taxes](https://github.com/stacynoland/python-taxes) - Provides US-based calculators for medicare, social security, and income tax.
+- [python-taxes](https://github.com/stacynoland/python-taxes) - Provides US-based calculations for medicare, social security, and federal income tax.
 
 <!--
 **stacynoland/stacynoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
