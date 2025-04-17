@@ -7,7 +7,7 @@ Actively applying to open roles (Remote Only):
 - **Backend Engineer**
 - **Data Engineer**
 
-You can reach me through the contact button on my webiste: [stacynoland.com](https://stacynoland.com)
+You can reach me through the contact button on my webiste: <a href="https://stacynoland.com" target="_blank">stacynoland.com</a>
 
 I'm currently working on...
 - [django-identity](https://github.com/stacynoland/django-identity) - Enforce proper identity and access management principles associated with users and permissions.
