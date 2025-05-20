@@ -1,6 +1,6 @@
-# Welcome! 👋 I'm Stacy and this is my GitHub account 
+# Welcome! 👋 I'm Stacy
 
-Over 8 years developing enterprise software and services, primarily in Python, C#/.NET, and SQL.
+I've been developing enterprise software and services for over 8 years, primarily in Python, C#/.NET, and SQL.
 
 Currently looking for a new role:
 - **Senior Software Engineer**
