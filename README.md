@@ -1,17 +1,17 @@
 # Welcome! 👋 I'm Stacy and this is my GitHub account 
 
-Over 10 years in the IT industry with 8 years developing software and services, primarily using Python, C#/.NET, and SQL.
+Over 8 years developing enterprise software and services, primarily in Python, C#/.NET, and SQL.
 
-Actively applying to open roles (Remote Only):
+Currently looking for a new role:
 - **Senior Software Engineer**
 - **Backend Engineer**
 - **Data Engineer**
 
-You can reach me through the contact button on my webiste: [stacynoland.com](https://stacynoland.com)
+You can contact me through my webiste: [stacynoland.com](https://stacynoland.com)
 
-I'm currently working on...
-- [django-identity](https://github.com/stacynoland/django-identity) - Enforce proper identity and access management principles associated with users and permissions.
+Suggested repos to check out:
 - [python-taxes](https://github.com/stacynoland/python-taxes) - Provides US-based calculations for medicare, social security, and federal income tax.
+- [domain-validator](https://github.com/stacynoland/domain-validator) - Domain name and ownership validation package using dnspython.
 
 <!--
 **stacynoland/stacynoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
