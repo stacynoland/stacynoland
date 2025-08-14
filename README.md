@@ -2,11 +2,6 @@
 
 I've been developing enterprise software and services for over 8 years, primarily in Python, C#/.NET, and SQL.
 
-Currently looking for a new role:
-- **Senior Software Engineer**
-- **Backend Engineer**
-- **Data Engineer**
-
 You can contact me through my webiste: [stacynoland.com](https://stacynoland.com)
 
 Suggested repos to check out:
